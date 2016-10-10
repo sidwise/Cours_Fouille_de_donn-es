@@ -3,13 +3,11 @@
 \authcount {1}
 \contentsline {author}{{}}{1}
 \contentsline {section}{Introduction}{1}
-\contentsline {section}{\numberline {1}Premi\IeC {\`e}re section}{2}
-\contentsline {subsubsection}{Headings.}{2}
-\contentsline {subsubsection}{Lemmas, Propositions, and Theorems.}{2}
-\contentsline {subsection}{\numberline {1.1}Figures}{2}
-\contentsline {paragraph}{Remark 1.}{3}
-\contentsline {subsection}{\numberline {1.2}Formulas}{3}
-\contentsline {subsection}{\numberline {1.3}Footnotes}{4}
-\contentsline {subsection}{\numberline {1.4}Program Code}{4}
-\contentsline {section}{\numberline {2}Deuxi\IeC {\`e}me section}{4}
-\contentsline {subsection}{\numberline {2.1}ainsi de suite...}{4}
+\contentsline {section}{\numberline {1}Qu\IeC {\textquoteright }est ce qu\IeC {\textquoteright }une donn\IeC {\'e}es ?}{3}
+\contentsline {subsection}{\numberline {1.1}Notations}{3}
+\contentsline {subsection}{\numberline {1.2}Types d'attributs}{3}
+\contentsline {paragraph}{\textbf {Remarque:}}{4}
+\contentsline {subsection}{\numberline {1.3}Type d'attributs par nature de leur valeurs}{4}
+\contentsline {subsection}{\numberline {1.4}Bruit}{4}
+\contentsline {section}{\numberline {2}Extraction des connaissances \IeC {\`a} partir des donn\IeC {\'e}es}{4}
+\contentsline {subsection}{\numberline {2.1}\IeC {\'E}tape de pr\IeC {\'e}traitement}{5}
